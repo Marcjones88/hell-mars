@@ -1,0 +1,22 @@
+{
+  "name": "hell-mars",
+  "version": "1.0.0",
+  "description": "say hello to mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcjones88/hell-mars.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "mj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcjones88/hell-mars/issues"
+  },
+  "homepage": "https://github.com/Marcjones88/hell-mars#readme"
+}
